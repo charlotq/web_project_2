@@ -1,14 +1,12 @@
 @import URL('./_theme/section-subtitle_theme_dark.css');
 
 .section-subtitle {
+  margin: 0 auto;
   width: 60%;
   padding-top: 20px;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 0;
   text-align: center;
   padding-top: 0;
 }
